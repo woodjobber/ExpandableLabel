@@ -1,4 +1,4 @@
-// swift-tools-version:5.5
+// swift-tools-version:5.3
 
 import PackageDescription
 
@@ -12,6 +12,10 @@ let package = Package(
             name: "ExpandableLabel",
             targets: ["ExpandableLabel"]),
     ],
+    
+//    dependencies: [
+//        .package(url: "https://github.com/davedelong/time", from: "0.9.1"),
+//    ],
 
     targets: [
         .target(
