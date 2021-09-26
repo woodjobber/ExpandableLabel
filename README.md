@@ -8,7 +8,7 @@ ExpandableLabel is a simple UILabel subclass that shows a tappable link if the c
 
 - File > Swift Packages > Add Package Dependency
 - Add `https://github.com/woodjobber/ExpandableLabel.git`
-- Select "Up to Next Major" with "0.0.1"
+- Select "Up to Next Major" with "0.0.2"
 
 # Announce
 
